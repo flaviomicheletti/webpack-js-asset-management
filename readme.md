@@ -1,10 +1,10 @@
 ![era para ter uma imagem aqui](logo-webpack-js.jpeg)
 
-# Webpack - Getting Started
+# Webpack - Asset Management
 
 Inicando com webpack, seguindo o guide abaixo
 
-https://webpack.js.org/guides/getting-started/
+https://webpack.js.org/guides/asset-management/
 
 
 ## Instalação
